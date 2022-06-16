@@ -4,10 +4,10 @@ port:
   8084
 
 mysql:
-  host: 81.70.28.187
+  host: xxxx
   port: 3306
   user: root
-  password: admin
+  password: xxxx
   dbname: dousheng
   max_open_conns: 200
   max_idle_conns: 50
